@@ -1,0 +1,116 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.section{
+    
+    color:rgb(212, 192, 76);
+  background: none;
+    width: 24.5%;
+    height: 100%;
+    padding: 10px;
+    font-size: 40px;
+    font-style: italic;
+    
+    margin: 0;
+}
+body{
+    margin: 0;
+    background-color: rgb(75, 9, 131);
+    max-width: 100%;
+    
+}
+h1{
+    
+
+    margin: 0;
+    margin-left: 50px;
+    color:white;
+    padding: 10px;
+}
+h2{
+    margin: 0;
+    width: 100%;
+    height:100px ;
+    color: white;
+    overflow: auto;
+}
+    
+   
+
+
+img{
+    border-bottom: 2px solid gold;
+}
+p{
+    border-bottom: 2px solid gold;
+}
+
+.fix{
+    position: fixed;
+}
+
+    
+
+.link2{
+    width: 250px;
+    height: 40px;
+    position: fixed;
+    top: 0;
+    right:0;
+    color: rgb(212, 193, 84);
+    font-style: italic;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background: none;
+    text-decoration: none;
+}
+.logo{
+    width: 258px;
+    height: 68px;
+    
+}
+.link1
+{
+    position: fixed;
+    top: 0;
+right: 350px;
+
+color: rgb(212, 193, 84);
+    font-style: italic;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background: none;
+    text-decoration: none;
+}
+h1:hover{
+   font-size: 40px;
+  
+}
+a:hover{
+    background: rgb(3, 3, 3);
+    
+}
+ #section1{
+    
+   font-size: larger;
+   font-weight: 600;
+   background-color: gold;
+   text-decoration: none;
+   color:white ;
+ 
+   
+} 
+#section2{
+    position:absolute;
+    color:white ;
+
+    font-size: larger;
+    font-weight: 600;
+    background-color: gold;
+    text-decoration: none;
+  right: 0;
+    
+ } 
